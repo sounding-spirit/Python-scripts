@@ -1,0 +1,51 @@
+<html>
+
+<head>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+    <div>
+        <div id='plot_div' style="width:450px; height:600px; position:fixed; top:30px; left:30px"></div>
+        <div id='description' style="position:fixed; top:120px; left:530px;">
+            <a id='PID_block'>
+                <p id='PID_text'></p>
+            </a>
+            <p id='dim_div'></p>
+            <a id='image_block'>
+                <img id='image' style="width:300px">
+            </a>
+        </div>
+    </div>
+
+    <script type="module">
+        var base_url = window.location.origin;
+        const response = await fetch(base_url + "/data")
+            .then(response => response.json());
+        // console.log(response);
+        var data = [response.data];
+        var layout = response.layout;
+        Plotly.newPlot('plot_div', data, layout);
+        var myPlot = document.getElementById('plot_div');
+        myPlot.on('plotly_click', async function (data) {
+            var PID = data.points[0].text;
+            var width = data.points[0].x;
+            var height = data.points[0].y;
+            // alert('You clicked "' + PID + '"! Its dimension is ' + width + " cm x " + height + " cm. ");
+            var data = await fetch(base_url + "/omeka-search?PID=" + PID)
+                .then(response => response.json())
+            // console.log(data);
+
+            document.getElementById("PID_text").textContent = "PID: " + PID;
+            document.getElementById("dim_div").textContent = "Dimension: " + width + " cm x " + height + " cm";
+            document.getElementById("image").src = data.image;
+            document.getElementById("image_block").href = "https://omeka.soundingspirit.org" + data.url;
+            document.getElementById("PID_block").href = "https://omeka.soundingspirit.org" + data.url;
+
+        });
+    </script>
+
+
+</body>
+
+</html>

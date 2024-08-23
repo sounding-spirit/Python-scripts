@@ -1,0 +1,1099 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# https://www.loc.gov/standards/alto/v4/alto.xsd">
+   <Description>
+      <MeasurementUnit>pixel</MeasurementUnit>
+      <sourceImageInformation>
+         <fileName/>
+      </sourceImageInformation>
+      <OCRProcessing ID="IdOcr">
+         <ocrProcessingStep>
+            <processingSoftware>
+               <softwareName>gcv2hocr.py</softwareName>
+            </processingSoftware>
+         </ocrProcessingStep>
+      </OCRProcessing>
+   </Description>
+   <Layout>
+      <Page ID="d2e10" PHYSICAL_IMG_NR="1" HEIGHT="3156" WIDTH="2094">
+         <PrintSpace HEIGHT="3156" WIDTH="2094" VPOS="0" HPOS="0">
+            <TextBlock ID="d2e11" HEIGHT="2587" WIDTH="1613" VPOS="219" HPOS="256">
+               <TextLine ID="line_0" HEIGHT="50" WIDTH="104" VPOS="219" HPOS="259">
+                  <String HEIGHT="50" WIDTH="104" HPOS="259" VPOS="219" CONTENT="No."><Shape><Polygon POINTS="259,219 363,219 363,269 259,269" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_1" HEIGHT="50" WIDTH="93" VPOS="219" HPOS="407">
+                  <String HEIGHT="50" WIDTH="93" HPOS="407" VPOS="219" CONTENT="19."><Shape><Polygon POINTS="407,219 500,219 500,269 407,269" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_2" HEIGHT="50" WIDTH="144" VPOS="219" HPOS="598">
+                  <String HEIGHT="50" WIDTH="144" HPOS="598" VPOS="219" CONTENT="Hold"><Shape><Polygon POINTS="598,219 742,219 742,269 598,269" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_3" HEIGHT="50" WIDTH="65" VPOS="219" HPOS="779">
+                  <String HEIGHT="50" WIDTH="65" HPOS="779" VPOS="219" CONTENT="to"><Shape><Polygon POINTS="779,219 844,219 844,269 779,269" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_4" HEIGHT="50" WIDTH="101" VPOS="219" HPOS="877">
+                  <String HEIGHT="50" WIDTH="101" HPOS="877" VPOS="219" CONTENT="the"><Shape><Polygon POINTS="877,219 978,219 978,269 877,269" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_5" HEIGHT="50" WIDTH="296" VPOS="219" HPOS="1016">
+                  <String HEIGHT="50" WIDTH="296" HPOS="1016" VPOS="219" CONTENT="Saviour's"><Shape><Polygon POINTS="1016,219 1312,219 1312,269 1016,269" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_6" HEIGHT="50" WIDTH="165" VPOS="219" HPOS="1353">
+                  <String HEIGHT="50" WIDTH="165" HPOS="1353" VPOS="219" CONTENT="Hand"><Shape><Polygon POINTS="1353,219 1518,219 1518,269 1353,269" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_7" HEIGHT="50" WIDTH="14" VPOS="219" HPOS="1524">
+                  <String HEIGHT="50" WIDTH="14" HPOS="1524" VPOS="219" CONTENT="."><Shape><Polygon POINTS="1524,219 1538,219 1538,269 1524,269" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_8" HEIGHT="26" WIDTH="47" VPOS="317" HPOS="321">
+                  <String HEIGHT="26" WIDTH="47" HPOS="321" VPOS="317" CONTENT="A."><Shape><Polygon POINTS="321,317 368,317 368,343 321,343" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_9" HEIGHT="26" WIDTH="39" VPOS="315" HPOS="378">
+                  <String HEIGHT="26" WIDTH="39" HPOS="378" VPOS="315" CONTENT="T."><Shape><Polygon POINTS="378,315 417,315 417,341 378,341" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_10" HEIGHT="28" WIDTH="64" VPOS="319" HPOS="940">
+                  <String HEIGHT="28" WIDTH="64" HPOS="940" VPOS="319" CONTENT="Used"><Shape><Polygon POINTS="940,319 1004,319 1004,347 940,347" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_11" HEIGHT="26" WIDTH="33" VPOS="321" HPOS="1017">
+                  <String HEIGHT="26" WIDTH="33" HPOS="1017" VPOS="321" CONTENT="by"><Shape><Polygon POINTS="1017,321 1050,321 1050,347 1017,347" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_12" HEIGHT="29" WIDTH="147" VPOS="321" HPOS="1060">
+                  <String HEIGHT="29" WIDTH="147" HPOS="1060" VPOS="321" CONTENT="permission"><Shape><Polygon POINTS="1060,321 1207,321 1207,350 1060,350" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_13" HEIGHT="26" WIDTH="9" VPOS="323" HPOS="1207">
+                  <String HEIGHT="26" WIDTH="9" HPOS="1207" VPOS="323" CONTENT="."><Shape><Polygon POINTS="1207,323 1216,323 1216,349 1207,349" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_14" HEIGHT="25" WIDTH="122" VPOS="317" HPOS="1537">
+                  <String HEIGHT="25" WIDTH="122" HPOS="1537" VPOS="317" CONTENT="AUSTIN"><Shape><Polygon POINTS="1537,317 1659,317 1659,342 1537,342" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_15" HEIGHT="25" WIDTH="135" VPOS="316" HPOS="1677">
+                  <String HEIGHT="25" WIDTH="135" HPOS="1677" VPOS="316" CONTENT="TAYLOR"><Shape><Polygon POINTS="1677,316 1812,316 1812,341 1677,341" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_16" HEIGHT="25" WIDTH="10" VPOS="315" HPOS="1813">
+                  <String HEIGHT="25" WIDTH="10" HPOS="1813" VPOS="315" CONTENT="."><Shape><Polygon POINTS="1813,315 1823,315 1823,340 1813,340" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_17" HEIGHT="45" WIDTH="46" VPOS="436" HPOS="1785">
+                  <String HEIGHT="45" WIDTH="46" HPOS="1785" VPOS="436" CONTENT="g"><Shape><Polygon POINTS="1785,436 1831,436 1831,481 1785,481" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_18" HEIGHT="30" WIDTH="36" VPOS="559" HPOS="346">
+                  <String HEIGHT="30" WIDTH="36" HPOS="346" VPOS="559" CONTENT="1."><Shape><Polygon POINTS="346,559 382,559 382,589 346,589" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_19" HEIGHT="30" WIDTH="35" VPOS="559" HPOS="400">
+                  <String HEIGHT="30" WIDTH="35" HPOS="400" VPOS="559" CONTENT="If"><Shape><Polygon POINTS="400,559 435,559 435,589 400,589" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_20" HEIGHT="40" WIDTH="65" VPOS="560" HPOS="499">
+                  <String HEIGHT="40" WIDTH="65" HPOS="499" VPOS="560" CONTENT="you"><Shape><Polygon POINTS="499,560 564,560 564,600 499,600" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_21" HEIGHT="39" WIDTH="120" VPOS="560" HPOS="585">
+                  <String HEIGHT="39" WIDTH="120" HPOS="585" VPOS="560" CONTENT="choose"><Shape><Polygon POINTS="585,560 705,560 705,599 585,599" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_22" HEIGHT="39" WIDTH="37" VPOS="560" HPOS="720">
+                  <String HEIGHT="39" WIDTH="37" HPOS="720" VPOS="560" CONTENT="to"><Shape><Polygon POINTS="720,560 757,560 757,599 720,599" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_23" HEIGHT="34" WIDTH="39" VPOS="613" HPOS="343">
+                  <String HEIGHT="34" WIDTH="39" HPOS="343" VPOS="613" CONTENT="2."><Shape><Polygon POINTS="343,613 382,613 382,647 343,647" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_24" HEIGHT="34" WIDTH="46" VPOS="613" HPOS="398">
+                  <String HEIGHT="34" WIDTH="46" HPOS="398" VPOS="613" CONTENT="Je"><Shape><Polygon POINTS="398,613 444,613 444,647 398,647" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_25" HEIGHT="43" WIDTH="56" VPOS="615" HPOS="500">
+                  <String HEIGHT="43" WIDTH="56" HPOS="500" VPOS="615" CONTENT="sus"><Shape><Polygon POINTS="500,615 556,615 556,658 500,658" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_26" HEIGHT="42" WIDTH="11" VPOS="615" HPOS="557">
+                  <String HEIGHT="42" WIDTH="11" HPOS="557" VPOS="615" CONTENT=","><Shape><Polygon POINTS="557,615 568,615 568,657 557,657" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_27" HEIGHT="42" WIDTH="166" VPOS="614" HPOS="604">
+                  <String HEIGHT="42" WIDTH="166" HPOS="604" VPOS="614" CONTENT="Shepherd"><Shape><Polygon POINTS="604,614 770,614 770,656 604,656" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_28" HEIGHT="30" WIDTH="36" VPOS="669" HPOS="343">
+                  <String HEIGHT="30" WIDTH="36" HPOS="343" VPOS="669" CONTENT="3."><Shape><Polygon POINTS="343,669 379,669 379,699 343,699" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_29" HEIGHT="30" WIDTH="38" VPOS="669" HPOS="399">
+                  <String HEIGHT="30" WIDTH="38" HPOS="399" VPOS="669" CONTENT="If"><Shape><Polygon POINTS="399,669 437,669 437,699 399,699" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_30" HEIGHT="28" WIDTH="32" VPOS="672" HPOS="515">
+                  <String HEIGHT="28" WIDTH="32" HPOS="515" VPOS="672" CONTENT="in"><Shape><Polygon POINTS="515,672 547,672 547,700 515,700" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_31" HEIGHT="21" WIDTH="57" VPOS="681" HPOS="607">
+                  <String HEIGHT="21" WIDTH="57" HPOS="607" VPOS="681" CONTENT="sor"><Shape><Polygon POINTS="607,681 664,681 664,702 607,702" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_32" HEIGHT="21" WIDTH="14" VPOS="681" HPOS="674">
+                  <String HEIGHT="21" WIDTH="14" HPOS="674" VPOS="681" CONTENT="-"><Shape><Polygon POINTS="674,681 688,681 688,702 674,702" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_33" HEIGHT="21" WIDTH="66" VPOS="681" HPOS="697">
+                  <String HEIGHT="21" WIDTH="66" HPOS="697" VPOS="681" CONTENT="row"><Shape><Polygon POINTS="697,681 763,681 763,702 697,702" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_34" HEIGHT="39" WIDTH="86" VPOS="559" HPOS="801">
+                  <String HEIGHT="39" WIDTH="86" HPOS="801" VPOS="559" CONTENT="walk"><Shape><Polygon POINTS="801,559 887,559 887,598 801,598" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_35" HEIGHT="39" WIDTH="33" VPOS="559" HPOS="932">
+                  <String HEIGHT="39" WIDTH="33" HPOS="932" VPOS="559" CONTENT="in"><Shape><Polygon POINTS="932,559 965,559 965,598 932,598" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_36" HEIGHT="40" WIDTH="82" VPOS="558" HPOS="1012">
+                  <String HEIGHT="40" WIDTH="82" HPOS="1012" VPOS="558" CONTENT="light"><Shape><Polygon POINTS="1012,558 1094,558 1094,598 1012,598" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_37" HEIGHT="39" WIDTH="11" VPOS="558" HPOS="1094">
+                  <String HEIGHT="39" WIDTH="11" HPOS="1094" VPOS="558" CONTENT=","><Shape><Polygon POINTS="1094,558 1105,558 1105,597 1094,597" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_38" HEIGHT="39" WIDTH="83" VPOS="558" HPOS="1119">
+                  <String HEIGHT="39" WIDTH="83" HPOS="1119" VPOS="558" CONTENT="Hold"><Shape><Polygon POINTS="1119,558 1202,558 1202,597 1119,597" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_39" HEIGHT="39" WIDTH="36" VPOS="558" HPOS="1217">
+                  <String HEIGHT="39" WIDTH="36" HPOS="1217" VPOS="558" CONTENT="to"><Shape><Polygon POINTS="1217,558 1253,558 1253,597 1217,597" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_40" HEIGHT="43" WIDTH="39" VPOS="613" HPOS="823">
+                  <String HEIGHT="43" WIDTH="39" HPOS="823" VPOS="613" CONTENT="of"><Shape><Polygon POINTS="823,613 862,613 862,656 823,656" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_41" HEIGHT="41" WIDTH="83" VPOS="613" HPOS="902">
+                  <String HEIGHT="41" WIDTH="83" HPOS="902" VPOS="613" CONTENT="your"><Shape><Polygon POINTS="902,613 985,613 985,654 902,654" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_42" HEIGHT="42" WIDTH="71" VPOS="612" HPOS="1017">
+                  <String HEIGHT="42" WIDTH="71" HPOS="1017" VPOS="612" CONTENT="soul"><Shape><Polygon POINTS="1017,612 1088,612 1088,654 1017,654" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_43" HEIGHT="42" WIDTH="11" VPOS="612" HPOS="1093">
+                  <String HEIGHT="42" WIDTH="11" HPOS="1093" VPOS="612" CONTENT="!"><Shape><Polygon POINTS="1093,612 1104,612 1104,654 1093,654" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_44" HEIGHT="43" WIDTH="82" VPOS="611" HPOS="1120">
+                  <String HEIGHT="43" WIDTH="82" HPOS="1120" VPOS="611" CONTENT="Hold"><Shape><Polygon POINTS="1120,611 1202,611 1202,654 1120,654" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_45" HEIGHT="42" WIDTH="35" VPOS="611" HPOS="1218">
+                  <String HEIGHT="42" WIDTH="35" HPOS="1218" VPOS="611" CONTENT="to"><Shape><Polygon POINTS="1218,611 1253,611 1253,653 1218,653" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_46" HEIGHT="40" WIDTH="178" VPOS="670" HPOS="917">
+                  <String HEIGHT="40" WIDTH="178" HPOS="917" VPOS="670" CONTENT="distress"><Shape><Polygon POINTS="917,670 1095,670 1095,710 917,710" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_47" HEIGHT="40" WIDTH="11" VPOS="670" HPOS="1097">
+                  <String HEIGHT="40" WIDTH="11" HPOS="1097" VPOS="670" CONTENT=","><Shape><Polygon POINTS="1097,670 1108,670 1108,710 1097,710" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_48" HEIGHT="41" WIDTH="82" VPOS="669" HPOS="1120">
+                  <String HEIGHT="41" WIDTH="82" HPOS="1120" VPOS="669" CONTENT="Hold"><Shape><Polygon POINTS="1120,669 1202,669 1202,710 1120,710" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_49" HEIGHT="40" WIDTH="37" VPOS="669" HPOS="1217">
+                  <String HEIGHT="40" WIDTH="37" HPOS="1217" VPOS="669" CONTENT="to"><Shape><Polygon POINTS="1217,669 1254,669 1254,709 1217,709" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_50" HEIGHT="40" WIDTH="36" VPOS="718" HPOS="344">
+                  <String HEIGHT="40" WIDTH="36" HPOS="344" VPOS="718" CONTENT="4."><Shape><Polygon POINTS="344,718 380,718 380,758 344,758" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_51" HEIGHT="42" WIDTH="106" VPOS="720" HPOS="401">
+                  <String HEIGHT="42" WIDTH="106" HPOS="401" VPOS="720" CONTENT="Peace"><Shape><Polygon POINTS="401,720 507,720 507,762 401,762" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_52" HEIGHT="41" WIDTH="84" VPOS="723" HPOS="521">
+                  <String HEIGHT="41" WIDTH="84" HPOS="521" VPOS="723" CONTENT="He'll"><Shape><Polygon POINTS="521,723 605,723 605,764 521,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_53" HEIGHT="40" WIDTH="77" VPOS="726" HPOS="614">
+                  <String HEIGHT="40" WIDTH="77" HPOS="614" VPOS="726" CONTENT="give"><Shape><Polygon POINTS="614,726 691,726 691,766 614,766" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_54" HEIGHT="41" WIDTH="66" VPOS="728" HPOS="698">
+                  <String HEIGHT="41" WIDTH="66" HPOS="698" VPOS="728" CONTENT="you"><Shape><Polygon POINTS="698,728 764,728 764,769 698,769" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_55" HEIGHT="39" WIDTH="60" VPOS="725" HPOS="917">
+                  <String HEIGHT="39" WIDTH="60" HPOS="917" VPOS="725" CONTENT="His"><Shape><Polygon POINTS="917,725 977,725 977,764 917,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_56" HEIGHT="39" WIDTH="69" VPOS="725" HPOS="1013">
+                  <String HEIGHT="39" WIDTH="69" HPOS="1013" VPOS="725" CONTENT="side"><Shape><Polygon POINTS="1013,725 1082,725 1082,764 1013,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_57" HEIGHT="39" WIDTH="10" VPOS="725" HPOS="1085">
+                  <String HEIGHT="39" WIDTH="10" HPOS="1085" VPOS="725" CONTENT=","><Shape><Polygon POINTS="1085,725 1095,725 1095,764 1085,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_58" HEIGHT="39" WIDTH="80" VPOS="725" HPOS="1121">
+                  <String HEIGHT="39" WIDTH="80" HPOS="1121" VPOS="725" CONTENT="Hold"><Shape><Polygon POINTS="1121,725 1201,725 1201,764 1121,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_59" HEIGHT="39" WIDTH="37" VPOS="725" HPOS="1219">
+                  <String HEIGHT="39" WIDTH="37" HPOS="1219" VPOS="725" CONTENT="to"><Shape><Polygon POINTS="1219,725 1256,725 1256,764 1219,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_60" HEIGHT="44" WIDTH="43" VPOS="779" HPOS="339">
+                  <String HEIGHT="44" WIDTH="43" HPOS="339" VPOS="779" CONTENT="4."><Shape><Polygon POINTS="339,779 382,779 382,823 339,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_61" HEIGHT="44" WIDTH="67" VPOS="779" HPOS="399">
+                  <String HEIGHT="44" WIDTH="67" HPOS="399" VPOS="779" CONTENT="Till"><Shape><Polygon POINTS="399,779 466,779 466,823 399,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_62" HEIGHT="44" WIDTH="116" VPOS="779" HPOS="481">
+                  <String HEIGHT="44" WIDTH="116" HPOS="481" VPOS="779" CONTENT="you're"><Shape><Polygon POINTS="481,779 597,779 597,823 481,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_63" HEIGHT="44" WIDTH="92" VPOS="779" HPOS="603">
+                  <String HEIGHT="44" WIDTH="92" HPOS="603" VPOS="779" CONTENT="faith"><Shape><Polygon POINTS="603,779 695,779 695,823 603,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_64" HEIGHT="44" WIDTH="60" VPOS="779" HPOS="708">
+                  <String HEIGHT="44" WIDTH="60" HPOS="708" VPOS="779" CONTENT="has"><Shape><Polygon POINTS="708,779 768,779 768,823 708,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_65" HEIGHT="44" WIDTH="151" VPOS="779" HPOS="777">
+                  <String HEIGHT="44" WIDTH="151" HPOS="777" VPOS="779" CONTENT="changed"><Shape><Polygon POINTS="777,779 928,779 928,823 777,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_66" HEIGHT="44" WIDTH="39" VPOS="779" HPOS="937">
+                  <String HEIGHT="44" WIDTH="39" HPOS="937" VPOS="779" CONTENT="to"><Shape><Polygon POINTS="937,779 976,779 976,823 937,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_67" HEIGHT="44" WIDTH="89" VPOS="779" HPOS="1001">
+                  <String HEIGHT="44" WIDTH="89" HPOS="1001" VPOS="779" CONTENT="sight"><Shape><Polygon POINTS="1001,779 1090,779 1090,823 1001,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_68" HEIGHT="44" WIDTH="10" VPOS="779" HPOS="1092">
+                  <String HEIGHT="44" WIDTH="10" HPOS="1092" VPOS="779" CONTENT=","><Shape><Polygon POINTS="1092,779 1102,779 1102,823 1092,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_69" HEIGHT="44" WIDTH="84" VPOS="779" HPOS="1119">
+                  <String HEIGHT="44" WIDTH="84" HPOS="1119" VPOS="779" CONTENT="Hold"><Shape><Polygon POINTS="1119,779 1203,779 1203,823 1119,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_70" HEIGHT="44" WIDTH="39" VPOS="779" HPOS="1217">
+                  <String HEIGHT="44" WIDTH="39" HPOS="1217" VPOS="779" CONTENT="to"><Shape><Polygon POINTS="1217,779 1256,779 1256,823 1217,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_71" HEIGHT="20" WIDTH="38" VPOS="681" HPOS="825">
+                  <String HEIGHT="20" WIDTH="38" HPOS="825" VPOS="681" CONTENT="or"><Shape><Polygon POINTS="825,681 863,681 863,701 825,701" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_72" HEIGHT="25" WIDTH="37" VPOS="731" HPOS="824">
+                  <String HEIGHT="25" WIDTH="37" HPOS="824" VPOS="731" CONTENT="at"><Shape><Polygon POINTS="824,731 861,731 861,756 824,756" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_73" HEIGHT="39" WIDTH="58" VPOS="557" HPOS="1300">
+                  <String HEIGHT="39" WIDTH="58" HPOS="1300" VPOS="557" CONTENT="the"><Shape><Polygon POINTS="1300,557 1358,557 1358,596 1300,596" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_74" HEIGHT="39" WIDTH="64" VPOS="557" HPOS="1373">
+                  <String HEIGHT="39" WIDTH="64" HPOS="1373" VPOS="557" CONTENT="Sav"><Shape><Polygon POINTS="1373,557 1437,557 1437,596 1373,596" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_75" HEIGHT="39" WIDTH="14" VPOS="557" HPOS="1436">
+                  <String HEIGHT="39" WIDTH="14" HPOS="1436" VPOS="557" CONTENT="-"><Shape><Polygon POINTS="1436,557 1450,557 1450,596 1436,596" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_76" HEIGHT="39" WIDTH="98" VPOS="557" HPOS="1451">
+                  <String HEIGHT="39" WIDTH="98" HPOS="1451" VPOS="557" CONTENT="iour's"><Shape><Polygon POINTS="1451,557 1549,557 1549,596 1451,596" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_77" HEIGHT="39" WIDTH="154" VPOS="556" HPOS="1583">
+                  <String HEIGHT="39" WIDTH="154" HPOS="1583" VPOS="556" CONTENT="loving"><Shape><Polygon POINTS="1583,556 1737,556 1737,595 1583,595" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_78" HEIGHT="40" WIDTH="85" VPOS="555" HPOS="1760">
+                  <String HEIGHT="40" WIDTH="85" HPOS="1760" VPOS="555" CONTENT="hand"><Shape><Polygon POINTS="1760,555 1845,555 1845,595 1760,595" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_79" HEIGHT="39" WIDTH="14" VPOS="555" HPOS="1848">
+                  <String HEIGHT="39" WIDTH="14" HPOS="1848" VPOS="555" CONTENT="!"><Shape><Polygon POINTS="1848,555 1862,555 1862,594 1848,594" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_80" HEIGHT="43" WIDTH="57" VPOS="610" HPOS="1299">
+                  <String HEIGHT="43" WIDTH="57" HPOS="1299" VPOS="610" CONTENT="the"><Shape><Polygon POINTS="1299,610 1356,610 1356,653 1299,653" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_81" HEIGHT="42" WIDTH="66" VPOS="610" HPOS="1371">
+                  <String HEIGHT="42" WIDTH="66" HPOS="1371" VPOS="610" CONTENT="Sav"><Shape><Polygon POINTS="1371,610 1437,610 1437,652 1371,652" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_82" HEIGHT="42" WIDTH="15" VPOS="610" HPOS="1434">
+                  <String HEIGHT="42" WIDTH="15" HPOS="1434" VPOS="610" CONTENT="-"><Shape><Polygon POINTS="1434,610 1449,610 1449,652 1434,652" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_83" HEIGHT="42" WIDTH="97" VPOS="609" HPOS="1450">
+                  <String HEIGHT="42" WIDTH="97" HPOS="1450" VPOS="609" CONTENT="iour's"><Shape><Polygon POINTS="1450,609 1547,609 1547,651 1450,651" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_84" HEIGHT="41" WIDTH="155" VPOS="609" HPOS="1586">
+                  <String HEIGHT="41" WIDTH="155" HPOS="1586" VPOS="609" CONTENT="loving"><Shape><Polygon POINTS="1586,609 1741,609 1741,650 1586,650" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_85" HEIGHT="41" WIDTH="88" VPOS="608" HPOS="1759">
+                  <String HEIGHT="41" WIDTH="88" HPOS="1759" VPOS="608" CONTENT="hand"><Shape><Polygon POINTS="1759,608 1847,608 1847,649 1759,649" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_86" HEIGHT="42" WIDTH="15" VPOS="607" HPOS="1849">
+                  <String HEIGHT="42" WIDTH="15" HPOS="1849" VPOS="607" CONTENT="!"><Shape><Polygon POINTS="1849,607 1864,607 1864,649 1849,649" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_87" HEIGHT="40" WIDTH="58" VPOS="669" HPOS="1299">
+                  <String HEIGHT="40" WIDTH="58" HPOS="1299" VPOS="669" CONTENT="the"><Shape><Polygon POINTS="1299,669 1357,669 1357,709 1299,709" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_88" HEIGHT="41" WIDTH="66" VPOS="668" HPOS="1370">
+                  <String HEIGHT="41" WIDTH="66" HPOS="1370" VPOS="668" CONTENT="Sav"><Shape><Polygon POINTS="1370,668 1436,668 1436,709 1370,709" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_89" HEIGHT="40" WIDTH="15" VPOS="668" HPOS="1436">
+                  <String HEIGHT="40" WIDTH="15" HPOS="1436" VPOS="668" CONTENT="-"><Shape><Polygon POINTS="1436,668 1451,668 1451,708 1436,708" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_90" HEIGHT="40" WIDTH="98" VPOS="668" HPOS="1450">
+                  <String HEIGHT="40" WIDTH="98" HPOS="1450" VPOS="668" CONTENT="iour's"><Shape><Polygon POINTS="1450,668 1548,668 1548,708 1450,708" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_91" HEIGHT="40" WIDTH="151" VPOS="667" HPOS="1587">
+                  <String HEIGHT="40" WIDTH="151" HPOS="1587" VPOS="667" CONTENT="loving"><Shape><Polygon POINTS="1587,667 1738,667 1738,707 1587,707" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_92" HEIGHT="40" WIDTH="88" VPOS="667" HPOS="1760">
+                  <String HEIGHT="40" WIDTH="88" HPOS="1760" VPOS="667" CONTENT="hand"><Shape><Polygon POINTS="1760,667 1848,667 1848,707 1760,707" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_93" HEIGHT="40" WIDTH="13" VPOS="667" HPOS="1850">
+                  <String HEIGHT="40" WIDTH="13" HPOS="1850" VPOS="667" CONTENT="!"><Shape><Polygon POINTS="1850,667 1863,667 1863,707 1850,707" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_94" HEIGHT="39" WIDTH="58" VPOS="725" HPOS="1300">
+                  <String HEIGHT="39" WIDTH="58" HPOS="1300" VPOS="725" CONTENT="the"><Shape><Polygon POINTS="1300,725 1358,725 1358,764 1300,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_95" HEIGHT="39" WIDTH="64" VPOS="725" HPOS="1373">
+                  <String HEIGHT="39" WIDTH="64" HPOS="1373" VPOS="725" CONTENT="Sav"><Shape><Polygon POINTS="1373,725 1437,725 1437,764 1373,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_96" HEIGHT="39" WIDTH="14" VPOS="725" HPOS="1436">
+                  <String HEIGHT="39" WIDTH="14" HPOS="1436" VPOS="725" CONTENT="-"><Shape><Polygon POINTS="1436,725 1450,725 1450,764 1436,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_97" HEIGHT="39" WIDTH="97" VPOS="725" HPOS="1451">
+                  <String HEIGHT="39" WIDTH="97" HPOS="1451" VPOS="725" CONTENT="iour's"><Shape><Polygon POINTS="1451,725 1548,725 1548,764 1451,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_98" HEIGHT="44" WIDTH="60" VPOS="779" HPOS="1299">
+                  <String HEIGHT="44" WIDTH="60" HPOS="1299" VPOS="779" CONTENT="the"><Shape><Polygon POINTS="1299,779 1359,779 1359,823 1299,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_99" HEIGHT="44" WIDTH="64" VPOS="779" HPOS="1372">
+                  <String HEIGHT="44" WIDTH="64" HPOS="1372" VPOS="779" CONTENT="Sav"><Shape><Polygon POINTS="1372,779 1436,779 1436,823 1372,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_100" HEIGHT="44" WIDTH="16" VPOS="779" HPOS="1434">
+                  <String HEIGHT="44" WIDTH="16" HPOS="1434" VPOS="779" CONTENT="-"><Shape><Polygon POINTS="1434,779 1450,779 1450,823 1434,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_101" HEIGHT="44" WIDTH="97" VPOS="779" HPOS="1450">
+                  <String HEIGHT="44" WIDTH="97" HPOS="1450" VPOS="779" CONTENT="iour's"><Shape><Polygon POINTS="1450,779 1547,779 1547,823 1450,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_102" HEIGHT="44" WIDTH="55" VPOS="779" HPOS="1586">
+                  <String HEIGHT="44" WIDTH="55" HPOS="1586" VPOS="779" CONTENT="lov"><Shape><Polygon POINTS="1586,779 1641,779 1641,823 1586,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_103" HEIGHT="44" WIDTH="19" VPOS="779" HPOS="1653">
+                  <String HEIGHT="44" WIDTH="19" HPOS="1653" VPOS="779" CONTENT="-"><Shape><Polygon POINTS="1653,779 1672,779 1672,823 1653,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_104" HEIGHT="44" WIDTH="60" VPOS="779" HPOS="1682">
+                  <String HEIGHT="44" WIDTH="60" HPOS="1682" VPOS="779" CONTENT="ing"><Shape><Polygon POINTS="1682,779 1742,779 1742,823 1682,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_105" HEIGHT="44" WIDTH="89" VPOS="779" HPOS="1760">
+                  <String HEIGHT="44" WIDTH="89" HPOS="1760" VPOS="779" CONTENT="hand"><Shape><Polygon POINTS="1760,779 1849,779 1849,823 1760,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_106" HEIGHT="44" WIDTH="18" VPOS="779" HPOS="1847">
+                  <String HEIGHT="44" WIDTH="18" HPOS="1847" VPOS="779" CONTENT="!"><Shape><Polygon POINTS="1847,779 1865,779 1865,823 1847,823" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_107"
+                         HEIGHT="39"
+                         WIDTH="153"
+                         VPOS="725"
+                         HPOS="1587">
+                  <String HEIGHT="39" WIDTH="153" HPOS="1587" VPOS="725" CONTENT="loving"><Shape><Polygon POINTS="1587,725 1740,725 1740,764 1587,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_108" HEIGHT="39" WIDTH="87" VPOS="725" HPOS="1762">
+                  <String HEIGHT="39" WIDTH="87" HPOS="1762" VPOS="725" CONTENT="hand"><Shape><Polygon POINTS="1762,725 1849,725 1849,764 1762,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_109" HEIGHT="39" WIDTH="15" VPOS="725" HPOS="1851">
+                  <String HEIGHT="39" WIDTH="15" HPOS="1851" VPOS="725" CONTENT="!"><Shape><Polygon POINTS="1851,725 1866,725 1866,764 1851,764" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_110" HEIGHT="60" WIDTH="129" VPOS="889" HPOS="256">
+                  <String HEIGHT="60" WIDTH="129" HPOS="256" VPOS="889" CONTENT="9:24"><Shape><Polygon POINTS="256,889 385,889 385,949 256,949" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_111" HEIGHT="25" WIDTH="38" VPOS="845" HPOS="1783">
+                  <String HEIGHT="25" WIDTH="38" HPOS="1783" VPOS="845" CONTENT="2"><Shape><Polygon POINTS="1783,845 1821,845 1821,870 1783,870" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_112" HEIGHT="32" WIDTH="72" VPOS="1322" HPOS="346">
+                  <String HEIGHT="32" WIDTH="72" HPOS="346" VPOS="1322" CONTENT="Nar"><Shape><Polygon POINTS="346,1322 418,1322 418,1354 346,1354" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_113" HEIGHT="30" WIDTH="15" VPOS="1324" HPOS="426">
+                  <String HEIGHT="30" WIDTH="15" HPOS="426" VPOS="1324" CONTENT="-"><Shape><Polygon POINTS="426,1324 441,1324 441,1354 426,1354" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_114" HEIGHT="32" WIDTH="65" VPOS="1324" HPOS="452">
+                  <String HEIGHT="32" WIDTH="65" HPOS="452" VPOS="1324" CONTENT="row"><Shape><Polygon POINTS="452,1324 517,1324 517,1356 452,1356" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_115" HEIGHT="27" WIDTH="30" VPOS="1326" HPOS="576">
+                  <String HEIGHT="27" WIDTH="30" HPOS="576" VPOS="1326" CONTENT="is"><Shape><Polygon POINTS="576,1326 606,1326 606,1353 576,1353" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_116" HEIGHT="43" WIDTH="58" VPOS="1325" HPOS="665">
+                  <String HEIGHT="43" WIDTH="58" HPOS="665" VPOS="1325" CONTENT="the"><Shape><Polygon POINTS="665,1325 723,1325 723,1368 665,1368" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_117" HEIGHT="42" WIDTH="74" VPOS="1324" HPOS="759">
+                  <String HEIGHT="42" WIDTH="74" HPOS="759" VPOS="1324" CONTENT="way"><Shape><Polygon POINTS="759,1324 833,1324 833,1366 759,1366" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_118" HEIGHT="42" WIDTH="38" VPOS="1324" HPOS="878">
+                  <String HEIGHT="42" WIDTH="38" HPOS="878" VPOS="1324" CONTENT="of"><Shape><Polygon POINTS="878,1324 916,1324 916,1366 878,1366" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_119" HEIGHT="42" WIDTH="91" VPOS="1323" HPOS="959">
+                  <String HEIGHT="42" WIDTH="91" HPOS="959" VPOS="1323" CONTENT="right"><Shape><Polygon POINTS="959,1323 1050,1323 1050,1365 959,1365" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_120"
+                         HEIGHT="42"
+                         WIDTH="11"
+                         VPOS="1323"
+                         HPOS="1050">
+                  <String HEIGHT="42" WIDTH="11" HPOS="1050" VPOS="1323" CONTENT=","><Shape><Polygon POINTS="1050,1323 1061,1323 1061,1365 1050,1365" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_121"
+                         HEIGHT="42"
+                         WIDTH="83"
+                         VPOS="1322"
+                         HPOS="1074">
+                  <String HEIGHT="42" WIDTH="83" HPOS="1074" VPOS="1322" CONTENT="Hold"><Shape><Polygon POINTS="1074,1322 1157,1322 1157,1364 1074,1364" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_122"
+                         HEIGHT="42"
+                         WIDTH="37"
+                         VPOS="1322"
+                         HPOS="1181">
+                  <String HEIGHT="42" WIDTH="37" HPOS="1181" VPOS="1322" CONTENT="to"><Shape><Polygon POINTS="1181,1322 1218,1322 1218,1364 1181,1364" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_123"
+                         HEIGHT="42"
+                         WIDTH="59"
+                         VPOS="1321"
+                         HPOS="1262">
+                  <String HEIGHT="42" WIDTH="59" HPOS="1262" VPOS="1321" CONTENT="the"><Shape><Polygon POINTS="1262,1321 1321,1321 1321,1363 1262,1363" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_124" HEIGHT="43" WIDTH="82" VPOS="1378" HPOS="346">
+                  <String HEIGHT="43" WIDTH="82" HPOS="346" VPOS="1378" CONTENT="Give"><Shape><Polygon POINTS="346,1378 428,1378 428,1421 346,1421" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_125" HEIGHT="42" WIDTH="74" VPOS="1378" HPOS="453">
+                  <String HEIGHT="42" WIDTH="74" HPOS="453" VPOS="1378" CONTENT="Him"><Shape><Polygon POINTS="453,1378 527,1378 527,1420 453,1420" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_126" HEIGHT="43" WIDTH="76" VPOS="1377" HPOS="549">
+                  <String HEIGHT="43" WIDTH="76" HPOS="549" VPOS="1377" CONTENT="now"><Shape><Polygon POINTS="549,1377 625,1377 625,1420 549,1420" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_127" HEIGHT="42" WIDTH="72" VPOS="1377" HPOS="660">
+                  <String HEIGHT="42" WIDTH="72" HPOS="660" VPOS="1377" CONTENT="com"><Shape><Polygon POINTS="660,1377 732,1377 732,1419 660,1419" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_128" HEIGHT="42" WIDTH="15" VPOS="1377" HPOS="732">
+                  <String HEIGHT="42" WIDTH="15" HPOS="732" VPOS="1377" CONTENT="-"><Shape><Polygon POINTS="732,1377 747,1377 747,1419 732,1419" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_129" HEIGHT="42" WIDTH="92" VPOS="1377" HPOS="746">
+                  <String HEIGHT="42" WIDTH="92" HPOS="746" VPOS="1377" CONTENT="plete"><Shape><Polygon POINTS="746,1377 838,1377 838,1419 746,1419" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_130"
+                         HEIGHT="42"
+                         WIDTH="179"
+                         VPOS="1376"
+                         HPOS="860">
+                  <String HEIGHT="42" WIDTH="179" HPOS="860" VPOS="1376" CONTENT="control"><Shape><Polygon POINTS="860,1376 1039,1376 1039,1418 860,1418" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_131"
+                         HEIGHT="42"
+                         WIDTH="10"
+                         VPOS="1376"
+                         HPOS="1039">
+                  <String HEIGHT="42" WIDTH="10" HPOS="1039" VPOS="1376" CONTENT=","><Shape><Polygon POINTS="1039,1376 1049,1376 1049,1418 1039,1418" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_132"
+                         HEIGHT="42"
+                         WIDTH="83"
+                         VPOS="1375"
+                         HPOS="1073">
+                  <String HEIGHT="42" WIDTH="83" HPOS="1073" VPOS="1375" CONTENT="Hold"><Shape><Polygon POINTS="1073,1375 1156,1375 1156,1417 1073,1417" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_133"
+                         HEIGHT="42"
+                         WIDTH="36"
+                         VPOS="1375"
+                         HPOS="1179">
+                  <String HEIGHT="42" WIDTH="36" HPOS="1179" VPOS="1375" CONTENT="to"><Shape><Polygon POINTS="1179,1375 1215,1375 1215,1417 1179,1417" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_134"
+                         HEIGHT="43"
+                         WIDTH="60"
+                         VPOS="1374"
+                         HPOS="1259">
+                  <String HEIGHT="43" WIDTH="60" HPOS="1259" VPOS="1374" CONTENT="the"><Shape><Polygon POINTS="1259,1374 1319,1374 1319,1417 1259,1417" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_135" HEIGHT="41" WIDTH="50" VPOS="1435" HPOS="349">
+                  <String HEIGHT="41" WIDTH="50" HPOS="349" VPOS="1435" CONTENT="He"><Shape><Polygon POINTS="349,1435 399,1435 399,1476 349,1476" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_136" HEIGHT="40" WIDTH="85" VPOS="1435" HPOS="438">
+                  <String HEIGHT="40" WIDTH="85" HPOS="438" VPOS="1435" CONTENT="your"><Shape><Polygon POINTS="438,1435 523,1435 523,1475 438,1475" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_137" HEIGHT="41" WIDTH="73" VPOS="1434" HPOS="552">
+                  <String HEIGHT="41" WIDTH="73" HPOS="552" VPOS="1434" CONTENT="soul"><Shape><Polygon POINTS="552,1434 625,1434 625,1475 552,1475" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_138" HEIGHT="40" WIDTH="70" VPOS="1434" HPOS="660">
+                  <String HEIGHT="40" WIDTH="70" HPOS="660" VPOS="1434" CONTENT="will"><Shape><Polygon POINTS="660,1434 730,1434 730,1474 660,1474" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_139" HEIGHT="40" WIDTH="72" VPOS="1434" HPOS="766">
+                  <String HEIGHT="40" WIDTH="72" HPOS="766" VPOS="1434" CONTENT="own"><Shape><Polygon POINTS="766,1434 838,1434 838,1474 766,1474" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_140" HEIGHT="40" WIDTH="63" VPOS="1433" HPOS="861">
+                  <String HEIGHT="40" WIDTH="63" HPOS="861" VPOS="1433" CONTENT="and"><Shape><Polygon POINTS="861,1433 924,1433 924,1473 861,1473" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_141" HEIGHT="38" WIDTH="86" VPOS="1489" HPOS="347">
+                  <String HEIGHT="38" WIDTH="86" HPOS="347" VPOS="1489" CONTENT="He'll"><Shape><Polygon POINTS="347,1489 433,1489 433,1527 347,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_142" HEIGHT="38" WIDTH="42" VPOS="1489" HPOS="461">
+                  <String HEIGHT="38" WIDTH="42" HPOS="461" VPOS="1489" CONTENT="be"><Shape><Polygon POINTS="461,1489 503,1489 503,1527 461,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_143" HEIGHT="38" WIDTH="76" VPOS="1489" HPOS="547">
+                  <String HEIGHT="38" WIDTH="76" HPOS="547" VPOS="1489" CONTENT="true"><Shape><Polygon POINTS="547,1489 623,1489 623,1527 547,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_144" HEIGHT="38" WIDTH="91" VPOS="1489" HPOS="652">
+                  <String HEIGHT="38" WIDTH="91" HPOS="652" VPOS="1489" CONTENT="what"><Shape><Polygon POINTS="652,1489 743,1489 743,1527 652,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_145" HEIGHT="38" WIDTH="12" VPOS="1489" HPOS="743">
+                  <String HEIGHT="38" WIDTH="12" HPOS="743" VPOS="1489" CONTENT="-"><Shape><Polygon POINTS="743,1489 755,1489 755,1527 743,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_146" HEIGHT="38" WIDTH="67" VPOS="1489" HPOS="756">
+                  <String HEIGHT="38" WIDTH="67" HPOS="756" VPOS="1489" CONTENT="e'er"><Shape><Polygon POINTS="756,1489 823,1489 823,1527 756,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_147" HEIGHT="38" WIDTH="43" VPOS="1489" HPOS="866">
+                  <String HEIGHT="38" WIDTH="43" HPOS="866" VPOS="1489" CONTENT="be"><Shape><Polygon POINTS="866,1489 909,1489 909,1527 866,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_148" HEIGHT="41" WIDTH="63" VPOS="1546" HPOS="347">
+                  <String HEIGHT="41" WIDTH="63" HPOS="347" VPOS="1546" CONTENT="Till"><Shape><Polygon POINTS="347,1546 410,1546 410,1587 347,1587" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_149" HEIGHT="41" WIDTH="65" VPOS="1545" HPOS="451">
+                  <String HEIGHT="41" WIDTH="65" HPOS="451" VPOS="1545" CONTENT="you"><Shape><Polygon POINTS="451,1545 516,1545 516,1586 451,1586" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_150"
+                         HEIGHT="39"
+                         WIDTH="102"
+                         VPOS="1545"
+                         HPOS="538">
+                  <String HEIGHT="39" WIDTH="102" HPOS="538" VPOS="1545" CONTENT="reach"><Shape><Polygon POINTS="538,1545 640,1545 640,1584 538,1584" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_151" HEIGHT="40" WIDTH="59" VPOS="1544" HPOS="662">
+                  <String HEIGHT="40" WIDTH="59" HPOS="662" VPOS="1544" CONTENT="the"><Shape><Polygon POINTS="662,1544 721,1544 721,1584 662,1584" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_152"
+                         HEIGHT="40"
+                         WIDTH="100"
+                         VPOS="1543"
+                         HPOS="751">
+                  <String HEIGHT="40" WIDTH="100" HPOS="751" VPOS="1543" CONTENT="home"><Shape><Polygon POINTS="751,1543 851,1543 851,1583 751,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_153" HEIGHT="41" WIDTH="42" VPOS="1542" HPOS="870">
+                  <String HEIGHT="41" WIDTH="42" HPOS="870" VPOS="1542" CONTENT="of"><Shape><Polygon POINTS="870,1542 912,1542 912,1583 870,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_154" HEIGHT="40" WIDTH="88" VPOS="1433" HPOS="958">
+                  <String HEIGHT="40" WIDTH="88" HPOS="958" VPOS="1433" CONTENT="bless"><Shape><Polygon POINTS="958,1433 1046,1433 1046,1473 958,1473" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_155"
+                         HEIGHT="40"
+                         WIDTH="11"
+                         VPOS="1433"
+                         HPOS="1046">
+                  <String HEIGHT="40" WIDTH="11" HPOS="1046" VPOS="1433" CONTENT=","><Shape><Polygon POINTS="1046,1433 1057,1433 1057,1473 1046,1473" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_156"
+                         HEIGHT="41"
+                         WIDTH="83"
+                         VPOS="1432"
+                         HPOS="1075">
+                  <String HEIGHT="41" WIDTH="83" HPOS="1075" VPOS="1432" CONTENT="Hold"><Shape><Polygon POINTS="1075,1432 1158,1432 1158,1473 1075,1473" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_157"
+                         HEIGHT="40"
+                         WIDTH="37"
+                         VPOS="1432"
+                         HPOS="1180">
+                  <String HEIGHT="40" WIDTH="37" HPOS="1180" VPOS="1432" CONTENT="to"><Shape><Polygon POINTS="1180,1432 1217,1432 1217,1472 1180,1472" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_158" HEIGHT="38" WIDTH="69" VPOS="1489" HPOS="974">
+                  <String HEIGHT="38" WIDTH="69" HPOS="974" VPOS="1489" CONTENT="tide"><Shape><Polygon POINTS="974,1489 1043,1489 1043,1527 974,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_159"
+                         HEIGHT="38"
+                         WIDTH="11"
+                         VPOS="1489"
+                         HPOS="1043">
+                  <String HEIGHT="38" WIDTH="11" HPOS="1043" VPOS="1489" CONTENT=","><Shape><Polygon POINTS="1043,1489 1054,1489 1054,1527 1043,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_160"
+                         HEIGHT="38"
+                         WIDTH="81"
+                         VPOS="1489"
+                         HPOS="1080">
+                  <String HEIGHT="38" WIDTH="81" HPOS="1080" VPOS="1489" CONTENT="Hold"><Shape><Polygon POINTS="1080,1489 1161,1489 1161,1527 1080,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_161"
+                         HEIGHT="38"
+                         WIDTH="37"
+                         VPOS="1489"
+                         HPOS="1184">
+                  <String HEIGHT="38" WIDTH="37" HPOS="1184" VPOS="1489" CONTENT="to"><Shape><Polygon POINTS="1184,1489 1221,1489 1221,1527 1184,1527" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_162" HEIGHT="42" WIDTH="70" VPOS="1490" HPOS="972">
+                  <String HEIGHT="42" WIDTH="70" HPOS="972" VPOS="1490" CONTENT="tide"><Shape><Polygon POINTS="972,1490 1042,1490 1042,1532 972,1532" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_163"
+                         HEIGHT="41"
+                         WIDTH="10"
+                         VPOS="1490"
+                         HPOS="1042">
+                  <String HEIGHT="41" WIDTH="10" HPOS="1042" VPOS="1490" CONTENT=","><Shape><Polygon POINTS="1042,1490 1052,1490 1052,1531 1042,1531" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_164"
+                         HEIGHT="41"
+                         WIDTH="84"
+                         VPOS="1490"
+                         HPOS="1078">
+                  <String HEIGHT="41" WIDTH="84" HPOS="1078" VPOS="1490" CONTENT="Hold"><Shape><Polygon POINTS="1078,1490 1162,1490 1162,1531 1078,1531" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_165"
+                         HEIGHT="41"
+                         WIDTH="37"
+                         VPOS="1490"
+                         HPOS="1184">
+                  <String HEIGHT="41" WIDTH="37" HPOS="1184" VPOS="1490" CONTENT="to"><Shape><Polygon POINTS="1184,1490 1221,1490 1221,1531 1184,1531" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_166" HEIGHT="38" WIDTH="84" VPOS="1545" HPOS="968">
+                  <String HEIGHT="38" WIDTH="84" HPOS="968" VPOS="1545" CONTENT="light"><Shape><Polygon POINTS="968,1545 1052,1545 1052,1583 968,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_167"
+                         HEIGHT="38"
+                         WIDTH="10"
+                         VPOS="1545"
+                         HPOS="1054">
+                  <String HEIGHT="38" WIDTH="10" HPOS="1054" VPOS="1545" CONTENT=","><Shape><Polygon POINTS="1054,1545 1064,1545 1064,1583 1054,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_168"
+                         HEIGHT="38"
+                         WIDTH="84"
+                         VPOS="1545"
+                         HPOS="1076">
+                  <String HEIGHT="38" WIDTH="84" HPOS="1076" VPOS="1545" CONTENT="Hold"><Shape><Polygon POINTS="1076,1545 1160,1545 1160,1583 1076,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_169"
+                         HEIGHT="38"
+                         WIDTH="37"
+                         VPOS="1545"
+                         HPOS="1182">
+                  <String HEIGHT="38" WIDTH="37" HPOS="1182" VPOS="1545" CONTENT="to"><Shape><Polygon POINTS="1182,1545 1219,1545 1219,1583 1182,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_170"
+                         HEIGHT="38"
+                         WIDTH="59"
+                         VPOS="1545"
+                         HPOS="1263">
+                  <String HEIGHT="38" WIDTH="59" HPOS="1263" VPOS="1545" CONTENT="the"><Shape><Polygon POINTS="1263,1545 1322,1545 1322,1583 1263,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_171"
+                         HEIGHT="40"
+                         WIDTH="58"
+                         VPOS="1432"
+                         HPOS="1263">
+                  <String HEIGHT="40" WIDTH="58" HPOS="1263" VPOS="1432" CONTENT="the"><Shape><Polygon POINTS="1263,1432 1321,1432 1321,1472 1263,1472" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_172"
+                         HEIGHT="41"
+                         WIDTH="58"
+                         VPOS="1489"
+                         HPOS="1265">
+                  <String HEIGHT="41" WIDTH="58" HPOS="1265" VPOS="1489" CONTENT="the"><Shape><Polygon POINTS="1265,1489 1323,1489 1323,1530 1265,1530" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_173"
+                         HEIGHT="43"
+                         WIDTH="66"
+                         VPOS="1320"
+                         HPOS="1357">
+                  <String HEIGHT="43" WIDTH="66" HPOS="1357" VPOS="1320" CONTENT="Sav"><Shape><Polygon POINTS="1357,1320 1423,1320 1423,1363 1357,1363" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_174"
+                         HEIGHT="42"
+                         WIDTH="14"
+                         VPOS="1320"
+                         HPOS="1421">
+                  <String HEIGHT="42" WIDTH="14" HPOS="1421" VPOS="1320" CONTENT="-"><Shape><Polygon POINTS="1421,1320 1435,1320 1435,1362 1421,1362" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_175"
+                         HEIGHT="42"
+                         WIDTH="99"
+                         VPOS="1320"
+                         HPOS="1435">
+                  <String HEIGHT="42" WIDTH="99" HPOS="1435" VPOS="1320" CONTENT="four's"><Shape><Polygon POINTS="1435,1320 1534,1320 1534,1362 1435,1362" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_176"
+                         HEIGHT="42"
+                         WIDTH="163"
+                         VPOS="1319"
+                         HPOS="1556">
+                  <String HEIGHT="42" WIDTH="163" HPOS="1556" VPOS="1319" CONTENT="loving"><Shape><Polygon POINTS="1556,1319 1719,1319 1719,1361 1556,1361" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_177"
+                         HEIGHT="41"
+                         WIDTH="87"
+                         VPOS="1318"
+                         HPOS="1755">
+                  <String HEIGHT="41" WIDTH="87" HPOS="1755" VPOS="1318" CONTENT="hand"><Shape><Polygon POINTS="1755,1318 1842,1318 1842,1359 1755,1359" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_178"
+                         HEIGHT="42"
+                         WIDTH="13"
+                         VPOS="1317"
+                         HPOS="1845">
+                  <String HEIGHT="42" WIDTH="13" HPOS="1845" VPOS="1317" CONTENT="!"><Shape><Polygon POINTS="1845,1317 1858,1317 1858,1359 1845,1359" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_179"
+                         HEIGHT="42"
+                         WIDTH="64"
+                         VPOS="1374"
+                         HPOS="1357">
+                  <String HEIGHT="42" WIDTH="64" HPOS="1357" VPOS="1374" CONTENT="Sav"><Shape><Polygon POINTS="1357,1374 1421,1374 1421,1416 1357,1416" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_180"
+                         HEIGHT="42"
+                         WIDTH="13"
+                         VPOS="1374"
+                         HPOS="1420">
+                  <String HEIGHT="42" WIDTH="13" HPOS="1420" VPOS="1374" CONTENT="-"><Shape><Polygon POINTS="1420,1374 1433,1374 1433,1416 1420,1416" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_181"
+                         HEIGHT="42"
+                         WIDTH="97"
+                         VPOS="1374"
+                         HPOS="1435">
+                  <String HEIGHT="42" WIDTH="97" HPOS="1435" VPOS="1374" CONTENT="iour's"><Shape><Polygon POINTS="1435,1374 1532,1374 1532,1416 1435,1416" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_182"
+                         HEIGHT="42"
+                         WIDTH="163"
+                         VPOS="1373"
+                         HPOS="1555">
+                  <String HEIGHT="42" WIDTH="163" HPOS="1555" VPOS="1373" CONTENT="loving"><Shape><Polygon POINTS="1555,1373 1718,1373 1718,1415 1555,1415" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_183"
+                         HEIGHT="43"
+                         WIDTH="86"
+                         VPOS="1372"
+                         HPOS="1754">
+                  <String HEIGHT="43" WIDTH="86" HPOS="1754" VPOS="1372" CONTENT="hand"><Shape><Polygon POINTS="1754,1372 1840,1372 1840,1415 1754,1415" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_184"
+                         HEIGHT="42"
+                         WIDTH="14"
+                         VPOS="1372"
+                         HPOS="1844">
+                  <String HEIGHT="42" WIDTH="14" HPOS="1844" VPOS="1372" CONTENT="!"><Shape><Polygon POINTS="1844,1372 1858,1372 1858,1414 1844,1414" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_185"
+                         HEIGHT="40"
+                         WIDTH="64"
+                         VPOS="1431"
+                         HPOS="1358">
+                  <String HEIGHT="40" WIDTH="64" HPOS="1358" VPOS="1431" CONTENT="Sav"><Shape><Polygon POINTS="1358,1431 1422,1431 1422,1471 1358,1471" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_186"
+                         HEIGHT="40"
+                         WIDTH="14"
+                         VPOS="1431"
+                         HPOS="1421">
+                  <String HEIGHT="40" WIDTH="14" HPOS="1421" VPOS="1431" CONTENT="-"><Shape><Polygon POINTS="1421,1431 1435,1431 1435,1471 1421,1471" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_187"
+                         HEIGHT="40"
+                         WIDTH="97"
+                         VPOS="1431"
+                         HPOS="1436">
+                  <String HEIGHT="40" WIDTH="97" HPOS="1436" VPOS="1431" CONTENT="iour's"><Shape><Polygon POINTS="1436,1431 1533,1431 1533,1471 1436,1471" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_188"
+                         HEIGHT="40"
+                         WIDTH="162"
+                         VPOS="1430"
+                         HPOS="1556">
+                  <String HEIGHT="40" WIDTH="162" HPOS="1556" VPOS="1430" CONTENT="loving"><Shape><Polygon POINTS="1556,1430 1718,1430 1718,1470 1556,1470" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_189"
+                         HEIGHT="41"
+                         WIDTH="88"
+                         VPOS="1429"
+                         HPOS="1754">
+                  <String HEIGHT="41" WIDTH="88" HPOS="1754" VPOS="1429" CONTENT="hand"><Shape><Polygon POINTS="1754,1429 1842,1429 1842,1470 1754,1470" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_190"
+                         HEIGHT="40"
+                         WIDTH="12"
+                         VPOS="1429"
+                         HPOS="1845">
+                  <String HEIGHT="40" WIDTH="12" HPOS="1845" VPOS="1429" CONTENT="!"><Shape><Polygon POINTS="1845,1429 1857,1429 1857,1469 1845,1469" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_191"
+                         HEIGHT="41"
+                         WIDTH="66"
+                         VPOS="1489"
+                         HPOS="1359">
+                  <String HEIGHT="41" WIDTH="66" HPOS="1359" VPOS="1489" CONTENT="Sav"><Shape><Polygon POINTS="1359,1489 1425,1489 1425,1530 1359,1530" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_192"
+                         HEIGHT="41"
+                         WIDTH="15"
+                         VPOS="1489"
+                         HPOS="1424">
+                  <String HEIGHT="41" WIDTH="15" HPOS="1424" VPOS="1489" CONTENT="-"><Shape><Polygon POINTS="1424,1489 1439,1489 1439,1530 1424,1530" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_193"
+                         HEIGHT="42"
+                         WIDTH="98"
+                         VPOS="1488"
+                         HPOS="1438">
+                  <String HEIGHT="42" WIDTH="98" HPOS="1438" VPOS="1488" CONTENT="iour's"><Shape><Polygon POINTS="1438,1488 1536,1488 1536,1530 1438,1530" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_194"
+                         HEIGHT="41"
+                         WIDTH="161"
+                         VPOS="1488"
+                         HPOS="1557">
+                  <String HEIGHT="41" WIDTH="161" HPOS="1557" VPOS="1488" CONTENT="loving"><Shape><Polygon POINTS="1557,1488 1718,1488 1718,1529 1557,1529" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_195"
+                         HEIGHT="42"
+                         WIDTH="85"
+                         VPOS="1487"
+                         HPOS="1756">
+                  <String HEIGHT="42" WIDTH="85" HPOS="1756" VPOS="1487" CONTENT="hand"><Shape><Polygon POINTS="1756,1487 1841,1487 1841,1529 1756,1529" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_196"
+                         HEIGHT="41"
+                         WIDTH="11"
+                         VPOS="1487"
+                         HPOS="1845">
+                  <String HEIGHT="41" WIDTH="11" HPOS="1845" VPOS="1487" CONTENT="!"><Shape><Polygon POINTS="1845,1487 1856,1487 1856,1528 1845,1528" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_197"
+                         HEIGHT="38"
+                         WIDTH="65"
+                         VPOS="1545"
+                         HPOS="1358">
+                  <String HEIGHT="38" WIDTH="65" HPOS="1358" VPOS="1545" CONTENT="Sav"><Shape><Polygon POINTS="1358,1545 1423,1545 1423,1583 1358,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_198"
+                         HEIGHT="38"
+                         WIDTH="13"
+                         VPOS="1545"
+                         HPOS="1423">
+                  <String HEIGHT="38" WIDTH="13" HPOS="1423" VPOS="1545" CONTENT="-"><Shape><Polygon POINTS="1423,1545 1436,1545 1436,1583 1423,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_199"
+                         HEIGHT="38"
+                         WIDTH="98"
+                         VPOS="1545"
+                         HPOS="1437">
+                  <String HEIGHT="38" WIDTH="98" HPOS="1437" VPOS="1545" CONTENT="iour's"><Shape><Polygon POINTS="1437,1545 1535,1545 1535,1583 1437,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_200"
+                         HEIGHT="38"
+                         WIDTH="161"
+                         VPOS="1545"
+                         HPOS="1557">
+                  <String HEIGHT="38" WIDTH="161" HPOS="1557" VPOS="1545" CONTENT="loving"><Shape><Polygon POINTS="1557,1545 1718,1545 1718,1583 1557,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_201"
+                         HEIGHT="38"
+                         WIDTH="88"
+                         VPOS="1545"
+                         HPOS="1756">
+                  <String HEIGHT="38" WIDTH="88" HPOS="1756" VPOS="1545" CONTENT="hand"><Shape><Polygon POINTS="1756,1545 1844,1545 1844,1583 1756,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_202"
+                         HEIGHT="38"
+                         WIDTH="14"
+                         VPOS="1545"
+                         HPOS="1845">
+                  <String HEIGHT="38" WIDTH="14" HPOS="1845" VPOS="1545" CONTENT="!"><Shape><Polygon POINTS="1845,1545 1859,1545 1859,1583 1845,1583" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_203"
+                         HEIGHT="32"
+                         WIDTH="137"
+                         VPOS="1874"
+                         HPOS="374">
+                  <String HEIGHT="32" WIDTH="137" HPOS="374" VPOS="1874" CONTENT="CHORUS"><Shape><Polygon POINTS="374,1874 511,1874 511,1906 374,1906" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_204" HEIGHT="29" WIDTH="9" VPOS="1876" HPOS="513">
+                  <String HEIGHT="29" WIDTH="9" HPOS="513" VPOS="1876" CONTENT="."><Shape><Polygon POINTS="513,1876 522,1876 522,1905 513,1905" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_205" HEIGHT="36" WIDTH="83" VPOS="2109" HPOS="351">
+                  <String HEIGHT="36" WIDTH="83" HPOS="351" VPOS="2109" CONTENT="Hold"><Shape><Polygon POINTS="351,2109 434,2109 434,2145 351,2145" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_206" HEIGHT="30" WIDTH="62" VPOS="2112" HPOS="658">
+                  <String HEIGHT="30" WIDTH="62" HPOS="658" VPOS="2112" CONTENT="His"><Shape><Polygon POINTS="658,2112 720,2112 720,2142 658,2142" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_207" HEIGHT="31" WIDTH="86" VPOS="2112" HPOS="739">
+                  <String HEIGHT="31" WIDTH="86" HPOS="739" VPOS="2112" CONTENT="hand"><Shape><Polygon POINTS="739,2112 825,2112 825,2143 739,2143" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_208" HEIGHT="30" WIDTH="14" VPOS="2113" HPOS="828">
+                  <String HEIGHT="30" WIDTH="14" HPOS="828" VPOS="2113" CONTENT="!"><Shape><Polygon POINTS="828,2113 842,2113 842,2143 828,2143" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_209" HEIGHT="39" WIDTH="84" VPOS="2166" HPOS="349">
+                  <String HEIGHT="39" WIDTH="84" HPOS="349" VPOS="2166" CONTENT="Hold"><Shape><Polygon POINTS="349,2166 433,2166 433,2205 349,2205" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_210" HEIGHT="39" WIDTH="62" VPOS="2166" HPOS="455">
+                  <String HEIGHT="39" WIDTH="62" HPOS="455" VPOS="2166" CONTENT="His"><Shape><Polygon POINTS="455,2166 517,2166 517,2205 455,2205" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_211" HEIGHT="39" WIDTH="85" VPOS="2166" HPOS="537">
+                  <String HEIGHT="39" WIDTH="85" HPOS="537" VPOS="2166" CONTENT="hand"><Shape><Polygon POINTS="537,2166 622,2166 622,2205 537,2205" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_212" HEIGHT="39" WIDTH="9" VPOS="2166" HPOS="624">
+                  <String HEIGHT="39" WIDTH="9" HPOS="624" VPOS="2166" CONTENT=","><Shape><Polygon POINTS="624,2166 633,2166 633,2205 624,2205" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_213" HEIGHT="39" WIDTH="58" VPOS="2166" HPOS="653">
+                  <String HEIGHT="39" WIDTH="58" HPOS="653" VPOS="2166" CONTENT="His"><Shape><Polygon POINTS="653,2166 711,2166 711,2205 653,2205" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_214"
+                         HEIGHT="39"
+                         WIDTH="168"
+                         VPOS="2166"
+                         HPOS="757">
+                  <String HEIGHT="39" WIDTH="168" HPOS="757" VPOS="2166" CONTENT="loving"><Shape><Polygon POINTS="757,2166 925,2166 925,2205 757,2205" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_215" HEIGHT="39" WIDTH="89" VPOS="2166" HPOS="965">
+                  <String HEIGHT="39" WIDTH="89" HPOS="965" VPOS="2166" CONTENT="hand"><Shape><Polygon POINTS="965,2166 1054,2166 1054,2205 965,2205" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_216"
+                         HEIGHT="39"
+                         WIDTH="14"
+                         VPOS="2166"
+                         HPOS="1056">
+                  <String HEIGHT="39" WIDTH="14" HPOS="1056" VPOS="2166" CONTENT="!"><Shape><Polygon POINTS="1056,2166 1070,2166 1070,2205 1056,2205" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_217" HEIGHT="31" WIDTH="84" VPOS="2711" HPOS="350">
+                  <String HEIGHT="31" WIDTH="84" HPOS="350" VPOS="2711" CONTENT="Hold"><Shape><Polygon POINTS="350,2711 434,2711 434,2742 350,2742" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_218" HEIGHT="30" WIDTH="60" VPOS="2711" HPOS="636">
+                  <String HEIGHT="30" WIDTH="60" HPOS="636" VPOS="2711" CONTENT="His"><Shape><Polygon POINTS="636,2711 696,2711 696,2741 636,2741" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_219" HEIGHT="30" WIDTH="86" VPOS="2711" HPOS="711">
+                  <String HEIGHT="30" WIDTH="86" HPOS="711" VPOS="2711" CONTENT="hand"><Shape><Polygon POINTS="711,2711 797,2711 797,2741 711,2741" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_220" HEIGHT="30" WIDTH="13" VPOS="2711" HPOS="802">
+                  <String HEIGHT="30" WIDTH="13" HPOS="802" VPOS="2711" CONTENT="!"><Shape><Polygon POINTS="802,2711 815,2711 815,2741 802,2741" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_221" HEIGHT="40" WIDTH="84" VPOS="2766" HPOS="349">
+                  <String HEIGHT="40" WIDTH="84" HPOS="349" VPOS="2766" CONTENT="Hold"><Shape><Polygon POINTS="349,2766 433,2766 433,2806 349,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_222" HEIGHT="40" WIDTH="62" VPOS="2766" HPOS="447">
+                  <String HEIGHT="40" WIDTH="62" HPOS="447" VPOS="2766" CONTENT="His"><Shape><Polygon POINTS="447,2766 509,2766 509,2806 447,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_223" HEIGHT="40" WIDTH="87" VPOS="2766" HPOS="523">
+                  <String HEIGHT="40" WIDTH="87" HPOS="523" VPOS="2766" CONTENT="hand"><Shape><Polygon POINTS="523,2766 610,2766 610,2806 523,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_224" HEIGHT="40" WIDTH="10" VPOS="2766" HPOS="610">
+                  <String HEIGHT="40" WIDTH="10" HPOS="610" VPOS="2766" CONTENT=","><Shape><Polygon POINTS="610,2766 620,2766 620,2806 610,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_225" HEIGHT="40" WIDTH="57" VPOS="2766" HPOS="637">
+                  <String HEIGHT="40" WIDTH="57" HPOS="637" VPOS="2766" CONTENT="His"><Shape><Polygon POINTS="637,2766 694,2766 694,2806 637,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_226" HEIGHT="40" WIDTH="68" VPOS="2766" HPOS="725">
+                  <String HEIGHT="40" WIDTH="68" HPOS="725" VPOS="2766" CONTENT="nail"><Shape><Polygon POINTS="725,2766 793,2766 793,2806 725,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_227" HEIGHT="40" WIDTH="12" VPOS="2766" HPOS="795">
+                  <String HEIGHT="40" WIDTH="12" HPOS="795" VPOS="2766" CONTENT="-"><Shape><Polygon POINTS="795,2766 807,2766 807,2806 795,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_228"
+                         HEIGHT="40"
+                         WIDTH="132"
+                         VPOS="2766"
+                         HPOS="807">
+                  <String HEIGHT="40" WIDTH="132" HPOS="807" VPOS="2766" CONTENT="pierced"><Shape><Polygon POINTS="807,2766 939,2766 939,2806 807,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_229" HEIGHT="40" WIDTH="90" VPOS="2766" HPOS="950">
+                  <String HEIGHT="40" WIDTH="90" HPOS="950" VPOS="2766" CONTENT="hand"><Shape><Polygon POINTS="950,2766 1040,2766 1040,2806 950,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_230"
+                         HEIGHT="40"
+                         WIDTH="16"
+                         VPOS="2766"
+                         HPOS="1041">
+                  <String HEIGHT="40" WIDTH="16" HPOS="1041" VPOS="2766" CONTENT="!"><Shape><Polygon POINTS="1041,2766 1057,2766 1057,2806 1041,2806" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_231"
+                         HEIGHT="37"
+                         WIDTH="37"
+                         VPOS="1976"
+                         HPOS="1065">
+                  <String HEIGHT="37" WIDTH="37" HPOS="1065" VPOS="1976" CONTENT="*"><Shape><Polygon POINTS="1065,1976 1102,1976 1102,2013 1065,2013" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_232"
+                         HEIGHT="31"
+                         WIDTH="48"
+                         VPOS="2112"
+                         HPOS="1152">
+                  <String HEIGHT="31" WIDTH="48" HPOS="1152" VPOS="2112" CONTENT="He"><Shape><Polygon POINTS="1152,2112 1200,2112 1200,2143 1152,2143" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_233"
+                         HEIGHT="34"
+                         WIDTH="67"
+                         VPOS="2109"
+                         HPOS="1267">
+                  <String HEIGHT="34" WIDTH="67" HPOS="1267" VPOS="2109" CONTENT="will"><Shape><Polygon POINTS="1267,2109 1334,2109 1334,2143 1267,2143" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_234"
+                         HEIGHT="33"
+                         WIDTH="62"
+                         VPOS="2113"
+                         HPOS="1375">
+                  <String HEIGHT="33" WIDTH="62" HPOS="1375" VPOS="2113" CONTENT="nev"><Shape><Polygon POINTS="1375,2113 1437,2113 1437,2146 1375,2146" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_235" HEIGHT="6" WIDTH="10" VPOS="2130" HPOS="1460">
+                  <String HEIGHT="6" WIDTH="10" HPOS="1460" VPOS="2130" CONTENT="9"><Shape><Polygon POINTS="1460,2130 1470,2130 1470,2136 1460,2136" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_236"
+                         HEIGHT="18"
+                         WIDTH="36"
+                         VPOS="2122"
+                         HPOS="1490">
+                  <String HEIGHT="18" WIDTH="36" HPOS="1490" VPOS="2122" CONTENT="er"><Shape><Polygon POINTS="1490,2122 1526,2122 1526,2140 1490,2140" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_237"
+                         HEIGHT="37"
+                         WIDTH="47"
+                         VPOS="2112"
+                         HPOS="1588">
+                  <String HEIGHT="37" WIDTH="47" HPOS="1588" VPOS="2112" CONTENT="let"><Shape><Polygon POINTS="1588,2112 1635,2112 1635,2149 1588,2149" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_238"
+                         HEIGHT="37"
+                         WIDTH="65"
+                         VPOS="2114"
+                         HPOS="1678">
+                  <String HEIGHT="37" WIDTH="65" HPOS="1678" VPOS="2114" CONTENT="you"><Shape><Polygon POINTS="1678,2114 1743,2114 1743,2151 1678,2151" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_239"
+                         HEIGHT="37"
+                         WIDTH="89"
+                         VPOS="2116"
+                         HPOS="1765">
+                  <String HEIGHT="37" WIDTH="89" HPOS="1765" VPOS="2116" CONTENT="roam"><Shape><Polygon POINTS="1765,2116 1854,2116 1854,2153 1765,2153" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_240"
+                         HEIGHT="35"
+                         WIDTH="12"
+                         VPOS="2117"
+                         HPOS="1857">
+                  <String HEIGHT="35" WIDTH="12" HPOS="1857" VPOS="2117" CONTENT=";"><Shape><Polygon POINTS="1857,2117 1869,2117 1869,2152 1857,2152" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_241" HEIGHT="7" WIDTH="13" VPOS="2729" HPOS="1132">
+                  <String HEIGHT="7" WIDTH="13" HPOS="1132" VPOS="2729" CONTENT="-"><Shape><Polygon POINTS="1132,2729 1145,2729 1145,2736 1132,2736" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_242"
+                         HEIGHT="39"
+                         WIDTH="46"
+                         VPOS="2708"
+                         HPOS="1076">
+                  <String HEIGHT="39" WIDTH="46" HPOS="1076" VPOS="2708" CONTENT="Je"><Shape><Polygon POINTS="1076,2708 1122,2708 1122,2747 1076,2747" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_243"
+                         HEIGHT="39"
+                         WIDTH="62"
+                         VPOS="2708"
+                         HPOS="1169">
+                  <String HEIGHT="39" WIDTH="62" HPOS="1169" VPOS="2708" CONTENT="sus"><Shape><Polygon POINTS="1169,2708 1231,2708 1231,2747 1169,2747" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_244"
+                         HEIGHT="39"
+                         WIDTH="37"
+                         VPOS="2709"
+                         HPOS="1272">
+                  <String HEIGHT="39" WIDTH="37" HPOS="1272" VPOS="2709" CONTENT="at"><Shape><Polygon POINTS="1272,2709 1309,2709 1309,2748 1272,2748" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_245"
+                         HEIGHT="39"
+                         WIDTH="67"
+                         VPOS="2709"
+                         HPOS="1353">
+                  <String HEIGHT="39" WIDTH="67" HPOS="1353" VPOS="2709" CONTENT="last"><Shape><Polygon POINTS="1353,2709 1420,2709 1420,2748 1353,2748" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_246"
+                         HEIGHT="40"
+                         WIDTH="68"
+                         VPOS="2709"
+                         HPOS="1442">
+                  <String HEIGHT="40" WIDTH="68" HPOS="1442" VPOS="2709" CONTENT="will"><Shape><Polygon POINTS="1442,2709 1510,2709 1510,2749 1442,2749" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_247"
+                         HEIGHT="39"
+                         WIDTH="74"
+                         VPOS="2710"
+                         HPOS="1546">
+                  <String HEIGHT="39" WIDTH="74" HPOS="1546" VPOS="2710" CONTENT="lead"><Shape><Polygon POINTS="1546,2710 1620,2710 1620,2749 1546,2749" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_248"
+                         HEIGHT="39"
+                         WIDTH="66"
+                         VPOS="2711"
+                         HPOS="1655">
+                  <String HEIGHT="39" WIDTH="66" HPOS="1655" VPOS="2711" CONTENT="you"><Shape><Polygon POINTS="1655,2711 1721,2711 1721,2750 1655,2750" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_249"
+                         HEIGHT="40"
+                         WIDTH="95"
+                         VPOS="2711"
+                         HPOS="1743">
+                  <String HEIGHT="40" WIDTH="95" HPOS="1743" VPOS="2711" CONTENT="home"><Shape><Polygon POINTS="1743,2711 1838,2711 1838,2751 1743,2751" /></Shape></String>
+               </TextLine>
+               <TextLine ID="line_250"
+                         HEIGHT="39"
+                         WIDTH="11"
+                         VPOS="2712"
+                         HPOS="1839">
+                  <String HEIGHT="39" WIDTH="11" HPOS="1839" VPOS="2712" CONTENT="."><Shape><Polygon POINTS="1839,2712 1850,2712 1850,2751 1839,2751" /></Shape></String>
+               </TextLine>
+            </TextBlock>
+         </PrintSpace>
+      </Page>
+   </Layout>
+</alto>

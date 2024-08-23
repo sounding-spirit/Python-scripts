@@ -1,0 +1,34 @@
+<html>
+
+<head>
+    <script src="https://cdn.plot.ly/plotly-2.32.0.min.js" charset="utf-8"></script>
+</head>
+
+<body>
+    <div>
+        <div id='plot_div' style="width:800px; height:400px; position:fixed; top:30px; left:30px"></div>
+        <div id='desc' style="position:fixed; top:120px; left:850px;width:100%;height:100%"></div>
+    </div>
+
+    <script type="module">
+        var base_url = window.location.origin;
+        const response = await fetch(base_url + "/data")
+            .then(response => response.json());
+        var data = [response.data];
+        var layout = response.layout;
+        Plotly.newPlot('plot_div', data, layout);
+        var myPlot = document.getElementById('plot_div');
+        myPlot.on('plotly_click', async function (data) {
+            console.log(data.points[0])
+            var long = data.points[0].x;
+            var lati = data.points[0].y;
+            var desc = data.points[0].text;
+            // alert('You clicked [' + long+','+lati + ']! '+desc);
+            document.getElementById("desc").innerHTML = desc;
+        });
+    </script>
+
+
+</body>
+
+</html>
