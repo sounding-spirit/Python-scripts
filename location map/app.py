@@ -133,7 +133,7 @@ for x in df3.index:
   coor = df3.loc[x,0]
   lo=df3.loc[x,"Long"]
   la=df3.loc[x,"Lati"]
-  folium.Marker([la,lo], popup=folium.map.Popup(html=df3.loc[x,"Desc"],max_width=200)).add_to(map)
+  folium.Marker([la,lo], icon=folium.Icon(color='blue',icon_color='#'+'{0:06X}'.format(max(15-df3.loc[x,"Leng"],0)*1118481)),popup=folium.map.Popup(html=df3.loc[x,"Desc"],max_width=200)).add_to(map)
   
 map.save("index.html")
 
